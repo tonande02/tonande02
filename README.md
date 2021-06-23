@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tonande02, a bit new to GitHub, pleased to meet ya! =)
 - About me:
-- Currently in training to become a data engineer.
-- 👀 My main language is Python.
-- 🌱 I'm interested in AI/ML, and on the side I enjoy tinkering with games development.
+- :woman_technologist:🌱 Currently in training to become a data engineer.
+- 👀:snake: My main language is Python.
+- :video_game: I'm interested in AI/ML, and on the side I enjoy tinkering with games development.
 - I look forward to finding fun projects to collaborate on, and to learn from all the exciting things the community gets up to!
 
 <!---
