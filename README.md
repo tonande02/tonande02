@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tonande02, pleased to meet ya! =)
-
+ 
 - :woman_technologist: I'm a data engineer working in Telecom
 - 👀 My main expertise lies in data, specifically analysing data for business users in order to improve, build and maintain efficient data platforms, mainly using SQL, Dataiku, DBT, Python, AWS, and Git
 - I'm currently upskilling to Full-stack, focusing on HTML/CSS/JS, Python, and Azure
